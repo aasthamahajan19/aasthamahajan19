@@ -5,7 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Scientist+%F0%9F%93%8A+%7C+ML+Engineer+%F0%9F%A4%96;Turning+data+into+decisions%2C+one+model+at+a+time;Building+things+that+learn+%F0%9F%A7%A0%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
