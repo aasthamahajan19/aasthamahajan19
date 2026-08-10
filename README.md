@@ -59,15 +59,6 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aasthamahajan19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahajan19&layout=compact&theme=tokyonight&hide_border=true" height="180">
-
-</div>
 
 <br>
 
