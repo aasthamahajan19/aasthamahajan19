@@ -59,13 +59,13 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 
 ---
 
-# 📊 GitHub Stats That Actually Slap
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aasthamahajan19&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=aasthamahajan19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs" height="180">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahajan19&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahajan19&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
