@@ -1,119 +1,270 @@
-# Hey there, I'm Aastha 👋
-
-**Data & ML Enthusiast | Amritsar, Punjab 🌍**
-
----
-
 ## 🚀 About Me
 
 ```yaml
-name:        "Aastha Mahajan"
-location:    "Amritsar, Punjab"
-learning:    "Always something new"
-ask_me_about: ["Data", "Models", "Pipelines", "Coffee"]
-fun_fact:    "My models overfit less than my life decisions"
+name: "Aastha Mahajan"
+location: "🌍 Amritsar, Punjab"
+role: "💻 Computer Engineering Student"
+focus: "🤖 AI/ML • DSA • Software Development"
+learning: "🌱 Always something new"
+ask_me_about: "📊 Data, Models, Algorithms, Projects & Coffee"
+currently_building: "⚡ AI-powered & real-world applications"
+fun_fact: "🤖 My models overfit less than my life decisions"
 ```
 
-- 🔬 I turn messy data into **clean insights**
-- 🧠 I build, train & deploy **ML models** that (mostly) behave
-- 📈 I love a good **Jupyter Notebook** at 2 AM
-- ⚡ Fun fact: I've debugged more `NaN` values than I care to admit
+* 🔬 I turn messy data into **clean insights & useful solutions**
+* 🧠 I build, train & experiment with **ML models** that (mostly) behave
+* 💻 I enjoy turning **ideas into working software**
+* 🧩 Currently sharpening my **DSA & problem-solving skills**
+* 🤖 Exploring **AI, NLP, intelligent systems & automation**
+* 🎮 I also build **games and fun interactive projects**
+* 📈 I love a good **Jupyter Notebook at 2 AM**
+* ⚡ Fun fact: I've debugged more `NaN` values than I care to admit
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-<details>
-<summary><b>Click to see my toolkit</b> 🧰</summary>
-<br>
+### 💻 Languages
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python, R, SQL |
-| **ML / DL** | TensorFlow, PyTorch, scikit-learn |
-| **Data** | Pandas, NumPy, Jupyter |
-| **Databases** | PostgreSQL |
-| **DevOps** | Docker, Git, AWS |
+<p align="left">
 
-</details>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,mysql" />
 
----
+</p>
 
-## 📊 Quick Stats
+### 🤖 AI / ML & Data
 
-<details>
-<summary><b>Click to expand my GitHub snapshot</b> 📈</summary>
-<br>
+<p align="left">
 
-| Metric | Value |
-|---|---|
-| 🗂️ Public Repos | *fill in* |
-| ⭐ Total Stars Earned | *fill in* |
-| 🔥 Current Streak | *fill in* |
-| 🏆 Top Language | *fill in* |
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-> Tip: update this table manually, or wire it up later with a self-hosted stats script if you'd rather not depend on external image services.
+</p>
 
-</details>
+`NumPy` • `Pandas` • `Matplotlib` • `Jupyter` • `NLP`
+
+### 🌐 Development & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,git,github,docker,vscode" />
+
+</p>
+
+### 🧩 Core Skills
+
+`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `SQL` • `APIs` • `Machine Learning`
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Stats That Actually Slap
 
-<details open>
-<summary><b>🩺 MediFlow</b> — healthcare workflow project</summary>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aasthamahajan19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahajan19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
 <br>
 
-- **Stack:** JavaScript
-- **Repo:** [github.com/aasthamahajan19/mediflow](https://github.com/aasthamahajan19/mediflow)
+<div align="center">
 
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthamahajan19&theme=tokyonight&hide_border=true" />
 
-<details>
-<summary><b>🌫️ AQI Predictor</b> — air quality index prediction</summary>
-<br>
-
-- **Stack:** Jupyter Notebook
-- **Repo:** [github.com/aasthamahajan19/aqi_predictor](https://github.com/aasthamahajan19/aqi_predictor)
-
-</details>
-
-<details>
-<summary><b>😃 Emotion Detection</b> — ML-based emotion recognition</summary>
-<br>
-
-- **Stack:** Python
-- **Repo:** [github.com/aasthamahajan19/emotion_detection](https://github.com/aasthamahajan19/emotion_detection)
-
-</details>
-
-<details>
-<summary><b>💧 INGRES Chatbot</b> — groundwater resource assistant</summary>
-<br>
-
-- **Stack:** HTML
-- **Repo:** [github.com/aasthamahajan19/ingres-chatbot](https://github.com/aasthamahajan19/ingres-chatbot)
-
-</details>
-
-<details>
-<summary><b>🦟 MalariaScope</b> — malaria detection project</summary>
-<br>
-
-- **Stack:** Jupyter Notebook
-- **Repo:** [github.com/aasthamahajan19/malariascope](https://github.com/aasthamahajan19/malariascope)
-
-</details>
-
-<details>
-<summary><b>📉 Trading Bot</b> — automated trading project</summary>
-<br>
-
-- **Stack:** Python
-- **Repo:** [github.com/aasthamahajan19/trading-bot](https://github.com/aasthamahajan19/trading-bot)
-
-</details>
+</div>
 
 ---
 
-<p align="center"><i>⭐️ "Data is the new oil, but insight is the engine." ⭐️</i></p>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+> 🐍 **The snake eats my commits. I make more. Everybody wins.**
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthamahajan19&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 Featured Projects
+
+### 🤖 AI Resume & Job Description Matcher
+
+> Turning resumes and job descriptions into structured, meaningful matches.
+
+**`Python` `NLP` `AI/ML`**
+
+---
+
+### 💼 Job-AI
+
+> Exploring AI-powered approaches to improve job discovery and recruitment workflows.
+
+**`Python` `AI`**
+
+---
+
+### 📈 Binance Futures Trading Bot
+
+> A Python trading application built for the Binance Futures Testnet with market and limit order support.
+
+**`Python` `REST API` `CLI`**
+
+---
+
+### 💧 INGRES AI Chatbot
+
+> Making India's groundwater-resource data easier to query through an AI-powered conversational interface.
+
+**`Python` `AI` `Data` `Chatbot`**
+
+---
+
+### 🌫️ AQI Predictor
+
+> Predicting Air Quality Index using environmental and pollution-related data.
+
+**`Python` `Pandas` `Scikit-learn` `Machine Learning`**
+
+---
+
+### 🧠 Emotion Detection
+
+> Exploring machine learning techniques for detecting emotions from input data.
+
+**`Python` `Machine Learning`**
+
+---
+
+### 🩺 MediFlow
+
+> A healthcare-focused application designed around simplifying and organizing healthcare workflows.
+
+**`JavaScript` `Web Development`**
+
+---
+
+### 🦟 MalariaScope
+
+> An ML-based project exploring image-driven malaria detection.
+
+**`Python` `Jupyter` `Machine Learning`**
+
+---
+
+# 🎮 Games & Creative Builds
+
+> Because sometimes you don't need a dataset. You just need a keyboard and a questionable idea. 🎮
+
+### 🕹️ Game Development
+
+I also enjoy building **games and interactive projects** to experiment with:
+
+`Game Logic` • `Algorithms` • `UI/UX` • `Animations` • `Event Handling` • `Creative Coding`
+
+🎯 Games are where I get to combine **logic + creativity + problem solving** without worrying about whether the dataset has missing values.
+
+---
+
+# 🧩 DSA & Problem Solving
+
+```text
+                    🧠 PROBLEM SOLVING
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+      DATA STRUCTURES   ALGORITHMS      PRACTICE
+          │                │                │
+       Arrays          Searching         NeetCode
+       Linked Lists    Sorting           LeetCode
+       Stacks          Greedy            DSA Labs
+       Queues          Graphs
+       Trees           DP
+       Heaps           Recursion
+       Graphs          Backtracking
+```
+
+Currently working on becoming **faster, cleaner and more consistent at DSA**.
+
+---
+
+# 🔥 What I'm Building
+
+```text
+🤖 AI / ML
+      ↓
+📊 DATA
+      ↓
+🧠 INTELLIGENCE
+      ↓
+💻 SOFTWARE
+      ↓
+🌍 REAL-WORLD SOLUTIONS
+```
+
+I especially enjoy projects where **technology solves an actual problem** rather than just demonstrating a technology.
+
+---
+
+# 🌱 Currently Learning
+
+* 🤖 Machine Learning & AI
+* 🧠 NLP & intelligent systems
+* 🧩 Data Structures & Algorithms
+* 🌐 Backend & APIs
+* 🗄️ Databases & SQL
+* 🐳 Docker & deployment
+* ☁️ Cloud & production workflows
+* 🎮 Game development & interactive applications
+
+---
+
+# 🎯 2026 Mission
+
+```text
+☐ Build production-quality AI projects
+☐ Become stronger at DSA
+☐ Build bigger full-stack applications
+☐ Explore advanced ML
+☐ Contribute to open source
+☐ Build something people actually use
+☐ Keep learning. Keep building.
+```
+
+---
+
+## 💭 Developer Philosophy
+
+> ### "Don't just learn it. Build it."
+
+I believe the best way to understand technology is to **actually create something with it**.
+
+Break it.
+
+Debug it.
+
+Improve it.
+
+Then build something even better.
+
+---
+
+<div align="center">
+
+### ⚡ Code • Create • Experiment • Repeat ⚡
+
+**Thanks for visiting my corner of GitHub! 👋**
+
+</div>
