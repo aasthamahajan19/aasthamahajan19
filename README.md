@@ -1,3 +1,11 @@
+# Hey, I'm Aastha Mahajan 👋
+
+### 💻 Computer Engineering Student • 🤖 AI/ML Enthusiast • 🧩 Problem Solver
+
+> Turning ideas into code, data into insights, and bugs into features. ☕💻
+
+---
+
 ## 🚀 About Me
 
 ```yaml
@@ -11,33 +19,28 @@ currently_building: "⚡ AI-powered & real-world applications"
 fun_fact: "🤖 My models overfit less than my life decisions"
 ```
 
-* 🔬 I turn messy data into **clean insights & useful solutions**
-* 🧠 I build, train & experiment with **ML models** that (mostly) behave
-* 💻 I enjoy turning **ideas into working software**
-* 🧩 Currently sharpening my **DSA & problem-solving skills**
-* 🤖 Exploring **AI, NLP, intelligent systems & automation**
-* 🎮 I also build **games and fun interactive projects**
-* 📈 I love a good **Jupyter Notebook at 2 AM**
-* ⚡ Fun fact: I've debugged more `NaN` values than I care to admit
+- 🔬 I turn messy data into **clean insights & useful solutions**
+- 🧠 I build, train and experiment with **Machine Learning models**
+- 💻 I enjoy turning **ideas into working software**
+- 🧩 Currently sharpening my **DSA & problem-solving skills**
+- 🤖 Exploring **AI, NLP, intelligent systems & automation**
+- 📈 I love a good **Jupyter Notebook at 2 AM**
+- ⚡ Fun fact: I've debugged more `NaN` values than I care to admit
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Arsenal
 
 ### 💻 Languages
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,mysql" />
-
 </p>
 
 ### 🤖 AI / ML & Data
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
 `NumPy` • `Pandas` • `Matplotlib` • `Jupyter` • `NLP`
@@ -45,24 +48,24 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 ### 🌐 Development & Tools
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,flask,git,github,docker,vscode" />
-
 </p>
 
-### 🧩 Core Skills
+### 🧩 Core Concepts
 
-`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `SQL` • `APIs` • `Machine Learning`
+`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `SQL`
+
+`Machine Learning` • `APIs` • `Backend Development` • `Problem Solving`
 
 ---
 
-## 📊 GitHub Stats That Actually Slap
+# 📊 GitHub Stats That Actually Slap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aasthamahajan19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aasthamahajan19&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahajan19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahajan19&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -76,41 +79,29 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake.svg">
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake.svg"
-    width="95%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake.svg" alt="GitHub Contribution Snake" width="95%">
 </picture>
-
-<br><br>
-
-### 🐍 Watch the snake eat my contributions
-
-`LOW CONTRIBUTION` ─────────────── `HIGH CONTRIBUTION`
 
 <br>
 
-💻 **More commits → Longer journey → Hungrier snake**
+> 🐍 **The snake eats my commits. I make more. Everybody wins.**
 
 </div>
+
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthamahajan19&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthamahajan19&theme=tokyo-night&hide_border=true&area=true" width="95%">
 
 </div>
 
@@ -120,65 +111,65 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 
 ### 🤖 AI Resume & Job Description Matcher
 
-> Turning resumes and job descriptions into structured, meaningful matches.
+An AI-powered system designed to compare resumes with job descriptions and identify relevant skills, requirements and supporting evidence.
 
-**`Python` `NLP` `AI/ML`**
+`Python` `NLP` `AI/ML`
 
 ---
 
 ### 💼 Job-AI
 
-> Exploring AI-powered approaches to improve job discovery and recruitment workflows.
+An AI-focused project exploring intelligent approaches to job-related workflows and automation.
 
-**`Python` `AI`**
+`Python` `AI` `Automation`
 
 ---
 
 ### 📈 Binance Futures Trading Bot
 
-> A Python trading application built for the Binance Futures Testnet with market and limit order support.
+A Python-based trading application built for the **Binance Futures Testnet**, supporting market and limit orders with BUY/SELL functionality.
 
-**`Python` `REST API` `CLI`**
+`Python` `REST API` `CLI`
 
 ---
 
 ### 💧 INGRES AI Chatbot
 
-> Making India's groundwater-resource data easier to query through an AI-powered conversational interface.
+An AI-driven chatbot concept for making groundwater-resource data easier to access, query and understand.
 
-**`Python` `AI` `Data` `Chatbot`**
+`Python` `AI` `Data` `Chatbot`
 
 ---
 
 ### 🌫️ AQI Predictor
 
-> Predicting Air Quality Index using environmental and pollution-related data.
+A Machine Learning project for predicting **Air Quality Index** using environmental and pollution-related data.
 
-**`Python` `Pandas` `Scikit-learn` `Machine Learning`**
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
 
 ---
 
 ### 🧠 Emotion Detection
 
-> Exploring machine learning techniques for detecting emotions from input data.
+A Machine Learning project focused on detecting emotions from input data.
 
-**`Python` `Machine Learning`**
+`Python` `Machine Learning`
 
 ---
 
 ### 🩺 MediFlow
 
-> A healthcare-focused application designed around simplifying and organizing healthcare workflows.
+A healthcare-focused application designed around simplifying and organizing healthcare-related workflows.
 
-**`JavaScript` `Web Development`**
+`JavaScript` `Web Development`
 
 ---
 
 ### 🦟 MalariaScope
 
-> An ML-based project exploring image-driven malaria detection.
+An ML-based project exploring image-driven malaria detection.
 
-**`Python` `Jupyter` `Machine Learning`**
+`Python` `Jupyter` `Machine Learning`
 
 ---
 
@@ -188,50 +179,72 @@ fun_fact: "🤖 My models overfit less than my life decisions"
                     🧠 PROBLEM SOLVING
                            │
           ┌────────────────┼────────────────┐
-          ↓                ↓                ↓
-      DATA STRUCTURES   ALGORITHMS      PRACTICE
           │                │                │
-       Arrays          Searching         NeetCode
-       Linked Lists    Sorting           LeetCode
-       Stacks          Greedy            DSA Labs
+          ▼                ▼                ▼
+    DATA STRUCTURES    ALGORITHMS       PRACTICE
+          │                │                │
+       Arrays          Searching        NeetCode
+       Linked Lists    Sorting          LeetCode
+       Stacks          Greedy           DSA Labs
        Queues          Graphs
-       Trees           DP
+       Trees           Dynamic Programming
        Heaps           Recursion
        Graphs          Backtracking
 ```
 
 Currently working on becoming **faster, cleaner and more consistent at DSA**.
 
+### 🔥 Areas I'm Practicing
+
+`Arrays` • `Linked Lists` • `Stacks` • `Queues`
+
+`Trees` • `BST` • `Heaps` • `Graphs`
+
+`Sorting` • `Searching` • `Greedy`
+
+`Dynamic Programming` • `Recursion` • `Backtracking`
+
 ---
 
-# 🔥 What I'm Building
+# 🔥 What I Like Building
 
 ```text
-🤖 AI / ML
-      ↓
-📊 DATA
-      ↓
-🧠 INTELLIGENCE
-      ↓
-💻 SOFTWARE
-      ↓
-🌍 REAL-WORLD SOLUTIONS
+                         💡 IDEA
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   PROBLEM   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    📊 DATA / LOGIC
+                           │
+                           ▼
+                    🧠 AI / ALGORITHM
+                           │
+                           ▼
+                    💻 SOFTWARE
+                           │
+                           ▼
+                   🌍 REAL SOLUTION
 ```
 
-I especially enjoy projects where **technology solves an actual problem** rather than just demonstrating a technology.
+I especially enjoy projects involving:
+
+`🤖 AI/ML` • `📊 Data` • `💻 Software Development` • `🧩 DSA` • `🌐 APIs` • `⚙️ Automation`
 
 ---
 
 # 🌱 Currently Learning
 
-* 🤖 Machine Learning & AI
-* 🧠 NLP & intelligent systems
-* 🧩 Data Structures & Algorithms
-* 🌐 Backend & APIs
-* 🗄️ Databases & SQL
-* 🐳 Docker & deployment
-* ☁️ Cloud & production workflows
-* 🎮 Game development & interactive applications
+- 🤖 Machine Learning & AI
+- 🧠 NLP & Intelligent Systems
+- 🧩 Data Structures & Algorithms
+- 🌐 Backend Development & APIs
+- 🗄️ Databases & SQL
+- 🐳 Docker & Deployment
+- ☁️ Cloud Technologies
+- 🏗️ Building production-ready applications
 
 ---
 
@@ -241,7 +254,8 @@ I especially enjoy projects where **technology solves an actual problem** rather
 ☐ Build production-quality AI projects
 ☐ Become stronger at DSA
 ☐ Build bigger full-stack applications
-☐ Explore advanced ML
+☐ Explore advanced Machine Learning
+☐ Improve backend & system design skills
 ☐ Contribute to open source
 ☐ Build something people actually use
 ☐ Keep learning. Keep building.
@@ -249,26 +263,59 @@ I especially enjoy projects where **technology solves an actual problem** rather
 
 ---
 
-## 💭 Developer Philosophy
+# ⚡ My Workflow
+
+```text
+        💡 IDEA
+          │
+          ▼
+       🔍 RESEARCH
+          │
+          ▼
+       🧠 DESIGN
+          │
+          ▼
+       💻 BUILD
+          │
+          ▼
+       🐛 DEBUG
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+       🚀 DEPLOY
+          │
+          ▼
+       🔁 REPEAT
+```
+
+---
+
+# 💭 Developer Philosophy
 
 > ### "Don't just learn it. Build it."
 
-I believe the best way to understand technology is to **actually create something with it**.
+Technology makes sense when you actually **use it to solve something**.
 
 Break it.
 
 Debug it.
 
+Understand it.
+
 Improve it.
 
-Then build something even better.
+Then build something better.
 
 ---
 
 <div align="center">
 
-### ⚡ Code • Create • Experiment • Repeat ⚡
+## ⚡ Code • Create • Experiment • Repeat ⚡
 
-**Thanks for visiting my corner of GitHub! 👋**
+### 💻 Building today what I learned yesterday.
+
+**Thanks for visiting my GitHub! 👋**
 
 </div>
