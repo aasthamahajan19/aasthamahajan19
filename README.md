@@ -80,12 +80,30 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake.svg">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aasthamahajan19/aasthamahajan19/output/github-snake.svg"
+    width="95%">
+</picture>
+
+<br><br>
+
+### 🐍 Watch the snake eat my contributions
+
+`LOW CONTRIBUTION` ─────────────── `HIGH CONTRIBUTION`
+
+<br>
+
+💻 **More commits → Longer journey → Hungrier snake**
 
 </div>
-
-> 🐍 **The snake eats my commits. I make more. Everybody wins.**
-
 ---
 
 ## 📈 Activity Graph
@@ -161,20 +179,6 @@ fun_fact: "🤖 My models overfit less than my life decisions"
 > An ML-based project exploring image-driven malaria detection.
 
 **`Python` `Jupyter` `Machine Learning`**
-
----
-
-# 🎮 Games & Creative Builds
-
-> Because sometimes you don't need a dataset. You just need a keyboard and a questionable idea. 🎮
-
-### 🕹️ Game Development
-
-I also enjoy building **games and interactive projects** to experiment with:
-
-`Game Logic` • `Algorithms` • `UI/UX` • `Animations` • `Event Handling` • `Creative Coding`
-
-🎯 Games are where I get to combine **logic + creativity + problem solving** without worrying about whether the dataset has missing values.
 
 ---
 
